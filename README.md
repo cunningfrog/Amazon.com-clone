@@ -9,4 +9,4 @@ Search functionality (filter products dynamically)
 User-friendly UI with navigation, banners, and footer
 
 Mobile-responsive design
-PREVIEW LINK- file:///C:/Users/harsh/OneDrive/Documents/Desktop/classroom/index.html
+PREVIEW LINK- amazon-com-clone-ducy0b9xd-hp0486-srmisteduis-projects.vercel.app
